@@ -8,3 +8,5 @@ Advantages that KNIME brings to the table:
 1. The use of KNIME will add value and increase efficiency at any stage of the project lifecycle.
 2. Can be leveraged to enhance existing applications and reduce time to insight.
 3. Simplifies and accelerates the analytics process by acting as an interface between modern/traditional data sources and BI/visualization tools.
+
+![alt text](https://github.com/waghsac/KNIME-creditscoring-workflow/blob/master/KNIME-CreditScoring.PNG)
